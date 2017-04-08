@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/researchgate.iml" filepath="$PROJECT_DIR$/researchgate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/researchgate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/researchgate_main.iml" group="researchgate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/researchgate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/researchgate_test.iml" group="researchgate" />
+    </modules>
+  </component>
+</project>
