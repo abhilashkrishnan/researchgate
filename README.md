@@ -36,7 +36,7 @@ Random Sample: EMETN
 ```
 # SOLUTIONS
 
-> Two solutions are being implemented using Java programming language.
+> Two solutions have been implemented using Java programming language.
 
 ```
 1. RESERVOIR SAMPLING
