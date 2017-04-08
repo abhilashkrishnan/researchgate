@@ -1,6 +1,6 @@
 # RESEARCHGATE, BERLIN PROGRAMMING CHALLENGE
 
-## Sample Streamed Data
+## PROBLEM STATEMENT: Sample Streamed Data
 
 ```
 Please write a program stream-sampler that receives and processes an input stream consisting of 
