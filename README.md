@@ -3,9 +3,10 @@
 ## Sample Streamed Data
 
 ```
-Please write a program stream-sampler that receives and processes an input stream consisting of single characters. 
-The stream is of unknown and possibly very large length and the program should work regardless of the size of the input. 
-The program should take the sample size as a parameter and generate a random representative sample using that many characters.
+Please write a program stream-sampler that receives and processes an input stream consisting of 
+single characters. The stream is of unknown and possibly very large length and the program should
+work regardless of the size of the input. The program should take the sample size as a parameter 
+and generate a random representative sample using that many characters.
 
 ```
 
@@ -16,8 +17,9 @@ The program should take the sample size as a parameter and generate a random rep
 
 
 ```
-Clean and maintainable code, efficiency, memory consumption, and good testing are all important criteria we would like you to keep in
-mind when completing the challenge. Try to keep the maximum allocated memory as low as feasible.
+Clean and maintainable code, efficiency, memory consumption, and good testing are all important 
+criteria we would like you to keep in mind when completing the challenge. Try to keep the maximum 
+allocated memory as low as feasible.
 ```
 
 > Should something about the challenge be unclear please make an assumption and document it.
